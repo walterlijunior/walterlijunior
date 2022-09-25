@@ -23,3 +23,4 @@ Estudante de Ciências Contábeis, gosta de aprender novas de tecnologias para u
 
 
 ![Walterli Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterlijunior&show_icons=true&theme=synthwave)
+![snake gif](https://github.com/walterlijunior/walterlijunior/blob/output/github-contribution-grid-snake.svg)
