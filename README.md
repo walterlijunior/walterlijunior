@@ -19,7 +19,7 @@
      <img align="right" alt="anakin" src="https://cdn.discordapp.com/attachments/1023403949857968221/1023406599181713488/picasion.com_f0dcc551f793bbdb32224d99150978ef.gif">
 </div><br/>
 
-Estudante de Ciências Contábeis, gosta de aprender novas de tecnologias para uso pessoal e para desempenho acadêmico e futuro profissional contábil. Aliás, preciso ter um diferêncial na minha área de atuação,já que existe rumores de que a profissão de contador está ameaçada a deixar de existir. O que na minha visão, eu penso que não, eu diria que na verdade essa profissão iria evoluir, se transformar junto com as inovações tecnologicas, o que faria o profissional dessa área a ser forçado a se especializar ainda mais.
+Estudante de Ciências Contábeis, gosta de aprender novas de tecnologias para uso pessoal e para desempenho acadêmico e futuro profissional contábil. Aliás, preciso ter um diferêncial na minha área de atuação,já que existe rumores de que a profissão de contador está ameaçada a deixar de existir. O que na minha visão, eu penso que não, eu diria que na verdade essa profissão iria evoluir, se transformar junto com as inovações tecnologicas, o que faria o profissional dessa área a ser forçado a se especializar ainda mais. ()
 
 
 ![Walterli Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterlijunior&show_icons=true&theme=synthwave)
